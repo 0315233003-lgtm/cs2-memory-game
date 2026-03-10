@@ -12,8 +12,8 @@ p {
 }
 
 .card {
-    background-color: rgb(255, 122, 173);
-    color:white;
+    background-color: pink;
+    color: pink;
     width: 150px;
     height: 230px;
     text-align: center;
